@@ -1,0 +1,11 @@
+name: consensus-ape
+
+plugins:
+  - name: notebook
+
+default_ecosystem: beacon
+
+beacon:
+  default_network: mainnet
+  mainnet:
+    default_provider: lighthouse

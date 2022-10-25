@@ -14,7 +14,7 @@ ape plugins install .
 
 ## Running
 
-To play around with the Jupyter notebook and query your Lighthouse beacon node, run
+To play around with the Jupyter notebook and query your [Lighthouse](https://github.com/sigp/lighthouse) beacon node, run
 
 ```bash
 lighthouse bn --http

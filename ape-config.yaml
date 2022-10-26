@@ -2,6 +2,8 @@ name: consensus-ape
 
 plugins:
   - name: notebook
+  - name: beacon
+  - name: lighthouse
 
 default_ecosystem: beacon
 
